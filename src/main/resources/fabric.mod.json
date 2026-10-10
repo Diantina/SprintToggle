@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "sprint-toggle",
+	"version": "${version}",
+	"name": "Sprint Toggle",
+	"description": "Adds an ON/OFF button for sprinting in the Controls menu",
+	"authors": [
+		"Diantina"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/sprint-toggle/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"diantina.sprinttoggle.client.SprintToggleClient"
+		]
+	},
+	"mixins": [
+		"sprint-toggle.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "diantina.sprinttoggle.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"ControlsScreenMixin",
+		"LocalPlayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
