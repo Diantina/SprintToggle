@@ -1,5 +1,6 @@
 # SprintToggle
-<img width="612" height="91" alt="2026-10-07_17 53 28" src="https://github.com/user-attachments/assets/9efc5d73-6a02-46bc-9f73-b3b4bdea0253" />
+<img width="1256" height="1057" alt="2026-10-10_13 51 18" src="https://github.com/user-attachments/assets/fe4c59b7-aca5-46ab-94d1-6e37e8184eb5" />
+
 
 Adds an ON/OFF button for sprinting in the Controls menu.
 
