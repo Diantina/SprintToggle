@@ -6,6 +6,6 @@ Adds an ON/OFF button for sprinting in the Controls menu. It is on by default an
 
 # Reqiurements
 
-- Minecraft Java Edition 26.3
+- Minecraft Java Edition 26.3 and higher
 - Fabric Loader
 - Fabric API
